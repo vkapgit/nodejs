@@ -16,3 +16,4 @@ sonarqubeScanner({
           //'sonar.inclusions' : 'src/**'
        },
 }, () => {});
+
